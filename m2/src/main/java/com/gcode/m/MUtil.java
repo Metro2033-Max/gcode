@@ -6,4 +6,8 @@ public class MUtil {
         n++;
         return s + " !!!";
     }
+
+    public int getVal(int n) {
+        return n;
+    }
 }
